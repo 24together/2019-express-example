@@ -1,14 +1,3 @@
-/**
- * 파일 업로드하기
- * 
- * 웹브라우저에서 아래 주소의 페이지를 열고 웹페이지에서 요청
- *    http://localhost:3000/public/photo.html
- *
- * 파일업로드를 위해 클라이언트에서 지정한 이름은 photo 입니다.
- *
- * @date 2016-10-25
- * @author Mike
- */
 
 // Express 기본 모듈 불러오기
 var express = require('express')
